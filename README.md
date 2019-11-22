@@ -1,4 +1,12 @@
-﻿* [21] ====================================  LEIAME VS 7.0.46.4917 =========================== 
+﻿```ini
+[FBVariables]
+MajorVersion=11
+MinorVersion=1
+ReleaseVersion=60
+BuildVersion=6101
+```
+
+* [21] ====================================  LEIAME VS 7.0.46.4917 =========================== 
 
 #21538 - Agora ao fazer a instalação do componente NFCe, no término é executado um arquivo .bat que realiza as configurações de protocolo TLS e SSL, preparando o ambiente para evitar erros na emissão de notas 4.00.
   
@@ -724,6 +732,7 @@ Novidades:
 
 ====================================  LEIAME VS 1.6.1.19148 ==========================================
 Primeira versão oficial do componente Tecnospeed NFCe
+
 
 
 
