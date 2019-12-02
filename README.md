@@ -276,6 +276,12 @@ Testando uma nova versão de Leia-me.
 
 * [21] ====================================  LEIAME VS 7.0.46.4917 =========================== 
 
+Testando uma nova versão de Leia-me.
+
+
+
+* [21] ====================================  LEIAME VS 7.0.46.4917 =========================== 
+
 #21538 - Agora ao fazer a instalação do componente NFCe, no término é executado um arquivo .bat que realiza as configurações de protocolo TLS e SSL, preparando o ambiente para evitar erros na emissão de notas 4.00.
   
 #21928 - Correção no tipo dos campos que recebem o valor da tag infCpl para corrigir o erro na impressão do eDoc/Saas, uma parte do conteúdo não aparecia quando o texto passado era grande.
@@ -1224,6 +1230,7 @@ Novidades:
 
 ====================================  LEIAME VS 1.6.1.19148 ==========================================
 Primeira versão oficial do componente Tecnospeed NFCe
+
 
 
 
