@@ -2,6 +2,10 @@
 
 Leia-me do NFe.
 
+...
+
+Leia-me do NFe.
+
 * [21] ====================================  LEIAME VS 7.0.46.4917 =========================== 
 
 Testando uma nova versão de Leia-me.
@@ -1258,6 +1262,7 @@ Novidades:
 
 ====================================  LEIAME VS 1.6.1.19148 ==========================================
 Primeira versão oficial do componente Tecnospeed NFCe
+
 
 
 
