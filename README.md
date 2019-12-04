@@ -1,4 +1,8 @@
-﻿11.1.60.6150
+﻿11.1.60.6151
+
+Leia-me do NFe.
+
+11.1.60.6150
 
 Leia-me do NFe.
 
@@ -1266,6 +1270,7 @@ Novidades:
 
 ====================================  LEIAME VS 1.6.1.19148 ==========================================
 Primeira versão oficial do componente Tecnospeed NFCe
+
 
 
 
